@@ -18,7 +18,7 @@ _PotatoCrash_ v0.9.9: NJU 老版教务平台抢课程序，支持体育补选，
 
 **This project is now under the GPLv3 License.**
 
-_Copyright (C) 2020~2022 by **xsy**, All Right Reserved._
+_Copyright (C) 2020~2022 by **xsy**._
 
 Contact me by:
 
