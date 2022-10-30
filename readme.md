@@ -22,8 +22,8 @@ _Copyright (C) 2020~2022 by **xsy**._
 
 Contact me by:
 
-- xingshangyu100@gmail.com
-- [github.com/xingshangyu](https://github.com/xingshangyu)
+- starreeze@foxmail.com
+- [github.com/starreeze123](https://github.com/starreeze123)
 
 ## 功能说明
 
